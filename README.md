@@ -1,6 +1,8 @@
 nn2
 ===
 
+> I forked this project to fix missing parentheses and use this module in another project.
+
 ** This is a Sferes2 module ** 
 
 NN2 is a generic toolbox for evolving neural networks (it depends on sferes2).
